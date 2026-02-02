@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: calculator-app
-        image: my-app-image:latest
+        image: nirmaldocker1987/calculatorapp:6
         ports:
         - containerPort: 7000
 
